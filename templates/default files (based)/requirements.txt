@@ -1,0 +1,2 @@
+To quickly create requirements.txt use:
+pip freeze > requirements.txt
