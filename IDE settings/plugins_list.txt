@@ -1,0 +1,20 @@
+Python
+
+Prettier - Code formatter
+Prettier ESLint
+
+markdownlint
+
+Tabnine: AI Autocomplete & Chat
+
+IntelliCode
+IntelliCode API Usage Examples
+IntelliCode Completions
+IntelliCode Insiders
+
+Import Cost
+
+
+# Theme plugins:
+Material Icon Theme
+One Dark Pro
