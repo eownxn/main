@@ -14,7 +14,10 @@ IntelliCode Insiders
 
 Import Cost
 
+#Code spell checker
+
 
 # Theme plugins:
 Material Icon Theme
 One Dark Pro
+Rainbow Brackets 2
