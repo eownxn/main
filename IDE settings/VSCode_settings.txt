@@ -23,7 +23,6 @@
 
 	//Appearance
 	"editor.cursorBlinking": "solid",
-	"editor.bracketPairColorization.enabled": false,
 	"editor.glyphMargin": false,
 	"workbench.colorCustomizations": {
 		"editorOverviewRuler.errorForeground": "#0000",
@@ -207,5 +206,7 @@
 		"markdown": false
 	},
 
-	"tabnine.experimentalAutoImports": true
+	"tabnine.experimentalAutoImports": true,
+	"editor.guides.bracketPairs": true,
+	"git.confirmSync": false
 }
